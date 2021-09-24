@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5kSmwDrOlaqCsmW03gBplt4Zg6bQ33lVh55sxlsI5uA0vzkAt7laQ4FH7Jqgv/pOHa288Z6rcZe+Y/GS3eN0bw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Lygia Brito\\OneDrive\\Documentos\\Projetos\\Cerberus\\Chave.cs\\Chave.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lygia Brito\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lygia Brito\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
